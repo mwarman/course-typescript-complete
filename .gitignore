@@ -1,1 +1,4 @@
+# directories
 node_modules
+dist
+.cache
